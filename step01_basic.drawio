@@ -1,0 +1,13 @@
+<mxfile host="Electron" modified="2024-01-13T11:11:45.541Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="7KiCYtPE8g5aQ29gXoGp" version="22.0.3" type="device">
+  <diagram name="Page-1" id="tuoyFXddse0uy652sGCJ">
+    <mxGraphModel dx="1434" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bfyoj3msWBuSVciIPLM1-2" value="&lt;h1&gt;Khái niệm&lt;/h1&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 26px; overflow-wrap: break-word; color: rgb(34, 34, 34); font-family: Verdana, &amp;quot;system-ui&amp;quot;, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; background-color: rgb(255, 255, 255); text-align: justify;&quot;&gt;&lt;b style=&quot;box-sizing: border-box;&quot;&gt;Webhook là gì? –&amp;nbsp;&lt;/b&gt;Về mặt cơ bản, Webhook là một tính năng cho phép website&amp;nbsp;tự động thông báo và gửi dữ liệu&amp;nbsp;&lt;strong style=&quot;box-sizing: border-box;&quot; class=&quot;he ia&quot;&gt;&lt;em style=&quot;box-sizing: border-box;&quot; class=&quot;js&quot;&gt;thời gian thực&amp;nbsp;&lt;/em&gt;&lt;/strong&gt;&lt;em style=&quot;box-sizing: border-box;&quot; class=&quot;js&quot;&gt;đến&amp;nbsp;&lt;/em&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;các hệ thống khi có một sự kiện nào đó phát sinh trên website (ví dụ như khánh hàng đăng ký, điền form, mua hàng, hay gửi email) Webhook sẽ giúp hệ thống của bạn chủ động hơn trong việc vận hành cũng như trao đổi thông tin.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;box-sizing: border-box;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="790" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
