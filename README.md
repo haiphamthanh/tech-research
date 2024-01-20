@@ -8,6 +8,7 @@
 
 ## Template
 *1. Creating branch*
+   - **Base branch:** `develop`
    - **Format:** `<tag>/<short-description>`
    - **Tag:**
      - features: dùng để đánh dấu branch này là làm mới
